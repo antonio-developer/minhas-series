@@ -1,0 +1,44 @@
+{
+  "series": {
+    "1647285415810": {
+      "name": "Homeland",
+      "status": "PARA_ASSISTIR",
+      "genre_id": 2,
+      "comments": "legal",
+      "poster": "//image.tmdb.org/t/p/original/1hFGIgADHv24zyuDpByQNqspED5.jpg",
+      "background": "//image.tmdb.org/t/p/original/72n9YumBVjjs1SESbmmgs534LSe.jpg"
+    },
+    "1647291761085": {
+      "name": "La casa de papel",
+      "status": "PARA_ASSISTIR",
+      "genre_id": 1647276902639,
+      "poster": "//image.tmdb.org/t/p/original/qUmlmYWx3WndM01DHOTrmeiklVW.jpg",
+      "background": "//image.tmdb.org/t/p/original/gFZriCkpJYsApPZEF3jhxL4yLzG.jpg"
+    },
+    "1647531077269": {
+      "name": "Supernatural",
+      "status": "PARA_ASSISTIR",
+      "genre_id": null,
+      "poster": "//image.tmdb.org/t/p/original/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg",
+      "background": "//image.tmdb.org/t/p/original/nVRyd8hlg0ZLxBn9RaI7mUMQLnz.jpg"
+    }
+  },
+  "genres": {
+    "1": {
+      "name": "Aventura"
+    },
+    "2": {
+      "name": "Comédia"
+    },
+    "1647271879772": {
+      "name": "Suspense"
+    },
+    "1647276902639": {
+      "name": "SciFi"
+    },
+    "1647531103883": {
+      "name": "Ação"
+    }
+  },
+  "count": 0
+}
